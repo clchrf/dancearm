@@ -1,0 +1,7 @@
+numpy
+customtkinter
+matplotlib
+librosa
+sounddevice
+pyserial
+yt-dlp
