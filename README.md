@@ -3,6 +3,10 @@
 讓機械手臂跟著音樂跳舞！<br>
 Make a robot arm dance to music!
 
+![RobotDance 示範 Demo](media/demo.gif)
+
+🔊 [點這裡看有聲音的影片 / Watch the video with sound](media/demo.mp4)
+
 ---
 
 ## 這是什麼？ What is this?
